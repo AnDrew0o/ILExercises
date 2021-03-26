@@ -1,0 +1,16 @@
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/WordFrequency
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/WordFrequency.deps.json
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/WordFrequency.runtimeconfig.json
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/WordFrequency.runtimeconfig.dev.json
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/WordFrequency.dll
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/ref/WordFrequency.dll
+/home/intern/VScodeProjects/Day4/WordFrequency/bin/Debug/net5.0/WordFrequency.pdb
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.csprojAssemblyReference.cache
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.AssemblyInfoInputs.cache
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.AssemblyInfo.cs
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.csproj.CoreCompileInputs.cache
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.dll
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/ref/WordFrequency.dll
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.pdb
+/home/intern/VScodeProjects/Day4/WordFrequency/obj/Debug/net5.0/WordFrequency.genruntimeconfig.cache

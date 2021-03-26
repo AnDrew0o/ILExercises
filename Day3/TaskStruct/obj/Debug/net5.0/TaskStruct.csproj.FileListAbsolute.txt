@@ -1,0 +1,16 @@
+/home/intern/TaskStruct/bin/Debug/net5.0/TaskStruct
+/home/intern/TaskStruct/bin/Debug/net5.0/TaskStruct.deps.json
+/home/intern/TaskStruct/bin/Debug/net5.0/TaskStruct.runtimeconfig.json
+/home/intern/TaskStruct/bin/Debug/net5.0/TaskStruct.runtimeconfig.dev.json
+/home/intern/TaskStruct/bin/Debug/net5.0/TaskStruct.dll
+/home/intern/TaskStruct/bin/Debug/net5.0/ref/TaskStruct.dll
+/home/intern/TaskStruct/bin/Debug/net5.0/TaskStruct.pdb
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.csprojAssemblyReference.cache
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.GeneratedMSBuildEditorConfig.editorconfig
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.AssemblyInfoInputs.cache
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.AssemblyInfo.cs
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.csproj.CoreCompileInputs.cache
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.dll
+/home/intern/TaskStruct/obj/Debug/net5.0/ref/TaskStruct.dll
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.pdb
+/home/intern/TaskStruct/obj/Debug/net5.0/TaskStruct.genruntimeconfig.cache
